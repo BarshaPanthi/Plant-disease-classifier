@@ -1,0 +1,20 @@
+# Dataset (too large for GitHub)
+data/
+
+# Model weights (too large for GitHub)
+outputs/best_model.pth
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment
+.conda/
+*.env
+
+# Local history
+.history/
